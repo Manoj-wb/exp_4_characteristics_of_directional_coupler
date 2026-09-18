@@ -77,7 +77,7 @@ Directivity (dB) = P3-P4
 
 1. The beam voltage should be minimum and the repeller voltage should be normal before switching the klystron power supply ON/OFF.
 2. Loose connections between the components should be avoided.
-3. The directional coupler must be handled carefully while inserting it into the circuit.
+3. The directional coupler must be handled carefully while inserting it into the circuit
 
 ---
 
